@@ -22,7 +22,7 @@ cd aws-s3-demo
 
 3. Install dependencies:
 ```
-npm install
+npm install express multer aws-sdk
 ```
 
 ## Usage
