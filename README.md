@@ -11,11 +11,11 @@ S3 File Uploader is a simple Node.js application that allows users to upload fil
 To run the S3 File Uploader locally, follow these steps:
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/s3-file-uploader.git
-   ```
+```
+git clone https://github.com/your-username/s3-file-uploader.git
+```  
    
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 ```
 cd s3-file-uploader
 ```
