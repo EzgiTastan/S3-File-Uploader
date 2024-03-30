@@ -12,12 +12,12 @@ To run the S3 File Uploader locally, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/s3-file-uploader.git
+git clone https://github.com/EzgiTastan/S3-File-Uploader.git
 ```  
    
 3. Navigate to the project directory:
 ```
-cd s3-file-uploader
+cd aws-s3-demo
 ```
 
 3. Install dependencies:
@@ -44,4 +44,4 @@ npm start
 
 + Open your web browser and navigate to http://localhost:3000.
 + Select a file to upload and click the "Upload" button.
-+ Once the file is uploaded successfully, you will receive a confirmation message.
++ Yeey!
